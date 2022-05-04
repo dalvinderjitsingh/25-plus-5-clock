@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/25-plus-5-clock/static/css/main.ff50bdc9.css",
+    "main.js": "/25-plus-5-clock/static/js/main.e49ac57b.js",
+    "static/media/digital-alarm.wav": "/25-plus-5-clock/static/media/digital-alarm.8fb7731e20490541a809.wav",
+    "index.html": "/25-plus-5-clock/index.html",
+    "main.ff50bdc9.css.map": "/25-plus-5-clock/static/css/main.ff50bdc9.css.map",
+    "main.e49ac57b.js.map": "/25-plus-5-clock/static/js/main.e49ac57b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff50bdc9.css",
+    "static/js/main.e49ac57b.js"
+  ]
+}
